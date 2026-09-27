@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.spendease",
+      "sha256_cert_fingerprints": ["BC:79:5D:C5:B0:A9:15:79:B4:23:17:90:12:8B:1F:6E:62:AF:80:0C:7B:1E:9D:34:B1:E7:B1:89:CA:5C:A2:EC"]
+    }
+  }
+]
