@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["CDQXWLFPW4.com.company.spendease", "CDQXWLFPW4.com.company.spendease.stg"],
+        "paths": ["/tx/*", "/kyc", "/reset-password*"]
+      }
+    ]
+  }
+}
